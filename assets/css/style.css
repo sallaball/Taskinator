@@ -67,6 +67,9 @@ footer {
   padding: 20px;
   border-top: 5px solid var(--primary);
 }
+main {
+  display: flex;
+}
 
 .page-title {
   color: var(--primary);
